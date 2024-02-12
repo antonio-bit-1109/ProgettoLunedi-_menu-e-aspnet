@@ -1,0 +1,7 @@
+C:\Users\Anton\source\repos\menuRistorante\menuRistorante\bin\Debug\menuRistorante.exe.config
+C:\Users\Anton\source\repos\menuRistorante\menuRistorante\bin\Debug\menuRistorante.exe
+C:\Users\Anton\source\repos\menuRistorante\menuRistorante\bin\Debug\menuRistorante.pdb
+C:\Users\Anton\source\repos\menuRistorante\menuRistorante\obj\Debug\menuRistorante.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\menuRistorante\menuRistorante\obj\Debug\menuRistorante.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\menuRistorante\menuRistorante\obj\Debug\menuRistorante.exe
+C:\Users\Anton\source\repos\menuRistorante\menuRistorante\obj\Debug\menuRistorante.pdb
